@@ -13,7 +13,7 @@
   cursor: pointer;
   position: relative;
   left: 0;
-  background-color: #EEE;
+  background-color: #6f00ee;
   margin: .5em;
   padding: .3em 0;
   height: 1.6em;
@@ -45,4 +45,5 @@
   height: 1.8em;
   margin-right: .8em;
   border-radius: 4px 0 0 4px;
+  width: 14px;
 }
