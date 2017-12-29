@@ -11,6 +11,8 @@
     <label>Name:
       <input [(ngModel)]="hero.name" placeholder="name"/>
     </label>
+
+    <button (click)="goBack()">go back</button>
   </div>
 
   <div><img style="width: 400px;" src="{{ hero.img_url }}" /></div>
